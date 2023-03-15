@@ -1,0 +1,15 @@
+body {
+  background-color: #e9ecef;
+}
+a {
+  text-decoration: none;
+}
+#logo {
+  font-size: 20px;
+}
+a.text-secondary:hover {
+  opacity: 0.5;
+}
+.list-inline-item a {
+  font-size: 25px;
+}
